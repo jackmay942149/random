@@ -1,3 +1,7 @@
+// Implmentation of the Mersenne Twister algorithim
+// M. Matsumoto and T. Nishimura, “Mersenne Twister: A 623-dimensionally equidistributed uniform pseudo-random number generator,” ACM Transactions on Modeling and Computer Simulation, vol. 8, no. 1, pp. 3–30, 1998.
+// DOI: https://doi.org/10.1145/272991.272995 
+
 package random
 
 Mersenne_Twister :: struct {
